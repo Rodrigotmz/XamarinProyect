@@ -3,8 +3,22 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="Aplicacion.Pagina3">
-    <ContentPage.Content>
+    <StackLayout>
+        <Label Text="Pagina3"/>
+        <Image Source="./CARTA.png" WidthRequest="300" HeightRequest="300"/>
+        <Frame>
+            <StackLayout>
+            <Entry x:Name="txtRitmo" Placeholder="RITMO" ></Entry>
+            <Entry x:Name="txtRegate" Placeholder="REGATE"></Entry>
+            <Entry x:Name="txtTiro" Placeholder="TIRO" ></Entry>
+            <Entry x:Name="txtDefnsa" Placeholder="DEFENSA"></Entry>
+            <Entry x:Name="txtPase" Placeholder="PASE" ></Entry>
+            <Entry x:Name="txtFisico" Placeholder="FISICO"></Entry>
+                <Button x:Name="btnGuardar" Text="Continuar" Clicked="btnGuardar_Clicked"></Button>
+            </StackLayout>
+        </Frame>
         
-    </ContentPage.Content>
+
+    </StackLayout>
 </ContentPage>
 

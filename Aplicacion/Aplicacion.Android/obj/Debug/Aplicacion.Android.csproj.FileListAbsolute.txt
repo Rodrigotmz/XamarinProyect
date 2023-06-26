@@ -1274,3 +1274,5 @@
 /Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.Android/obj/Debug/res/drawable/carta.png
+/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.Android/obj/Debug/res/drawable/fut.jpg

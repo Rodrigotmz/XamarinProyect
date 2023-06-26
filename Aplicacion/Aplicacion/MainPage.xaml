@@ -4,7 +4,7 @@
              x:Class="Aplicacion.MainPage">
 
     <StackLayout>
-        <Image Source="" />
+        <Image Source="./FUT.png" />
         <Label Text="Fut Train" />
         <Button Text="Iniciar sesión" />
         <Button Text="Registrarse" Clicked="Button_Clicked"/>

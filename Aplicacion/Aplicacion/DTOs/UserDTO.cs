@@ -10,6 +10,9 @@ namespace Aplicacion.DTOs
 		public string ApPaterno { get; set; }
 
 		public string ApMaterno { get; set; }
+
+		public string Correo { get; set; }
     }
+    
 }
 

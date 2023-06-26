@@ -31,3 +31,4 @@
 /Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.dll
 /Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/obj/Debug/netstandard2.0/refint/Aplicacion.dll
 /Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.pdb
+/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/obj/Debug/netstandard2.0/Pagina4.xaml.g.cs

@@ -6,23 +6,25 @@ using Aplicacion.DTOs;
 using Xamarin.Forms;
 
 namespace Aplicacion
-{	
+{
 	public partial class Pagina2 : ContentPage
-	{	
-		public Pagina2 ()
+	{
+		public Pagina2()
 		{
-			InitializeComponent ();
+			InitializeComponent();
 		}
 
-        private async void btnGuardar_Clicked(System.Object sender, System.EventArgs e)
-        {
+		private async void btnGuardar_Clicked(System.Object sender, System.EventArgs e)
+		{
 			var user = new UserDTO
 			{
 				Nombre = txtNombre.Text,
-				ApPaterno = txtApPaterno.Text
+				ApPaterno = txtApPaterno.Text,
+				ApMaterno = txtApMaterno.Text,
+				Correo = txtCorreo.Text,
 			};
+            await Navigation.PushAsync(new Pagina3());
 
-			txtNombre.Text = "Rodrigo";
         }
     }
 }

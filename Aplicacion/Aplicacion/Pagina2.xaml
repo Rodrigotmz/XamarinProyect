@@ -9,14 +9,14 @@
             <StackLayout>
             
 
-            <Entry x:Name="txtNombre" Placeholder="Nombre" ></Entry>
+            <Entry x:Name="txtNombre" Placeholder="Nombre(s)" ></Entry>
             <Entry x:Name="txtApPaterno" Placeholder="Apellido Paterno"></Entry>
             <Entry x:Name="txtApMaterno" Placeholder="Apellido Materno" ></Entry>
-            <Entry x:Name="Correo" Placeholder="Email"></Entry>
+            <Entry x:Name="txtCorreo" Placeholder="Email"></Entry>
             
 
 
-            <Button x:Name="btnGuardar" Text="Guardar" Clicked="btnGuardar_Clicked"></Button>
+            <Button x:Name="btnGuardar" Text="Registrarse" Clicked="btnGuardar_Clicked"></Button>
 
                                 
             

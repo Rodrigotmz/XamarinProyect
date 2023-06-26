@@ -1146,11 +1146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion.iOS/Aplicacion.iOS.csproj",
+      "projectUniqueName": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.iOS/Aplicacion.iOS.csproj",
       "projectName": "Aplicacion.iOS",
-      "projectPath": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion.iOS/Aplicacion.iOS.csproj",
+      "projectPath": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.iOS/Aplicacion.iOS.csproj",
       "packagesPath": "/Users/owenor/.nuget/packages/",
-      "outputPath": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion.iOS/obj/",
+      "outputPath": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1165,8 +1165,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion/Aplicacion.csproj": {
-              "projectPath": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion/Aplicacion.csproj"
+            "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/Aplicacion.csproj": {
+              "projectPath": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/Aplicacion.csproj"
             }
           }
         }

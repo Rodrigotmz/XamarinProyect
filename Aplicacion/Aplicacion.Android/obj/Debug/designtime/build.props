@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=unix
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638233222647196178
+_nugetassetstimestamp=638233226207158559
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=/users/owenor/documents/github/xamarinproyect/aplicacion/aplicacion.android/aplicacion.android.csproj
+projectfullpath=/users/owenor/documents/github/xamarinproyect2/aplicacion/aplicacion.android/aplicacion.android.csproj

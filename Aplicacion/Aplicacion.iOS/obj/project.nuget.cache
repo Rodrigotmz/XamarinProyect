@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+LOeqKMXbAl0px3ZjToU0rcldSoYEUOWlp6CrvnzRnCu0cWJJYEzhHAXIRQT3zMnvtaqMhXpyHvmh3QTGWEG7w==",
+  "dgSpecHash": "0JmliB3OnGzMqKhLfKQujshehRsDeQW7F+3p05vxO5wS/lNy/RMvfVuPHTskaJIg2m+45M0i56MQurhIrjwGpQ==",
   "success": true,
-  "projectFilePath": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion.iOS/Aplicacion.iOS.csproj",
+  "projectFilePath": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.iOS/Aplicacion.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/owenor/.nuget/packages/sqlite/3.13.0/sqlite.3.13.0.nupkg.sha512",
     "/Users/owenor/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion/Aplicacion.csproj": {}
+    "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/Aplicacion.csproj": {}
   },
   "projects": {
-    "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion/Aplicacion.csproj": {
+    "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion/Aplicacion.csproj",
+        "projectUniqueName": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion/Aplicacion.csproj",
+        "projectPath": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/Aplicacion.csproj",
         "packagesPath": "/Users/owenor/.nuget/packages/",
-        "outputPath": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion/obj/",
+        "outputPath": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/owenor/.config/NuGet/NuGet.Config"

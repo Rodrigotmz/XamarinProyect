@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pFA1H6P6JXt+ppz+KXQpmngbDAfHRw6+8AJS/zihcTn648rd9N5vcRTzPG+cTMTCrGG1kmhbydDvleiUSaOm0Q==",
+  "dgSpecHash": "c/2bXigQtzGSZnC5dlXjkBhRdRZR7RnQgeBG9MWwF7rynKZmF3KWtiGUTQpiK2r4pMLgWTnQjzlyo9lfZetbbw==",
   "success": true,
-  "projectFilePath": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion/Aplicacion.csproj",
+  "projectFilePath": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion/Aplicacion.csproj",
   "expectedPackageFiles": [
     "/Users/owenor/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/owenor/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

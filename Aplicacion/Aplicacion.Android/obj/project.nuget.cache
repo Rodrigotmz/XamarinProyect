@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2V+fN3DfAMhzG++QgjPHAg34ipY/jy51wNY4UgC5q2nfbdBpZw5VKdtnm+d6vE1KdrQyIw1+z1o3Qvd8mIIhAQ==",
+  "dgSpecHash": "WnMgNYbjzTUrkhk092yPmfV3qP4XvnJ/OkqtqJkN7OqSf72Qbgf4K6XA2TV9OCjCe9U1Q74KD8DOhm97hcMvXQ==",
   "success": true,
-  "projectFilePath": "/Users/owenor/Documents/GitHub/XamarinProyect/Aplicacion/Aplicacion.Android/Aplicacion.Android.csproj",
+  "projectFilePath": "/Users/owenor/Documents/GitHub/XamarinProyect2/Aplicacion/Aplicacion.Android/Aplicacion.Android.csproj",
   "expectedPackageFiles": [
     "/Users/owenor/.nuget/packages/sqlite/3.13.0/sqlite.3.13.0.nupkg.sha512",
     "/Users/owenor/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",

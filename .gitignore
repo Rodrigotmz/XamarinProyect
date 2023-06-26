@@ -1,3 +1,4 @@
 *.vs
-Aplicacion/Aplicacion.Android
-Aplicacion/Aplicacion.iOS
+Aplicacion/bin/*
+Aplicacion/Aplicacion.Android/*
+Aplicacion/Aplicacion.iOS/*

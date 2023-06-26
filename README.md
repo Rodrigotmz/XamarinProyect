@@ -1,1 +1,3 @@
-# XamarinProyect
+# Xamarin Proyect
+
+Ayuda del proyecto

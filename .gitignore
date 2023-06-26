@@ -1,4 +1,5 @@
 *.vs
 Aplicacion/bin/*
+Aplicacion/obj/*
 Aplicacion/Aplicacion.Android/*
 Aplicacion/Aplicacion.iOS/*

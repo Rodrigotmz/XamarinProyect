@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Aplicacion.Pagina2">
+    <!--<ContentPage.Content>-->
+        <StackLayout>
+            <Frame>
+            <StackLayout>
+            
+
+            <Entry x:Name="txtNombre" Placeholder="Ingrese su nombre" ></Entry>
+            <Entry x:Name="txtApPaterno" Placeholder="Ingrese su apeliido paterno"></Entry>
+            <Entry x:Name="txtNombre" Placeholder="Ingrese su nombre" ></Entry>
+            <Entry x:Name="txtApPaterno" Placeholder="Ingrese su apeliido paterno"></Entry>
+
+
+            <Button x:Name="btnGuardar" Text="Guardar" Clicked="btnGuardar_Clicked"></Button>
+
+                                
+            
+         
+        </StackLayout>
+        </Frame>
+            
+
+        </StackLayout>
+        
+    <!--ContentPage.Content>-->
+</ContentPage>
+
